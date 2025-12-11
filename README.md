@@ -1,3 +1,5 @@
+BEWARE, This is currently not functional!
+
 # VINS-Fusion
 ## An optimization-based multi-sensor state estimator
 
